@@ -2,9 +2,7 @@ body {
     background-color: bisque;
     font-family: Bai Jamjuree;
 }
-#container {
-    display: flex;
-}
+
 footer {
     background-color: black;
     color: white;
@@ -16,11 +14,10 @@ footer {
 
 footer p {
     text-align: center;
-    font-size: 0.5rem;
+    font-size: 0.6rem;
     margin-top: 0.5rem;
 }
-.cartao {
-    margin: 1rem 1rem;
-    background-color: aqua;
-    height: 20rem;
+
+#container {
+display: flex;
 }
