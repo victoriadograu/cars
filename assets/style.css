@@ -11,8 +11,8 @@ body, html {
 
 :root {
     --text-color: #DBE4EF;
-    --card-front-color: #000000;
-    --card-back-color: #e90247;
+    --card-front-color: #ff0000;
+    --card-back-color: #f13636;
     --background-color: #f8f8f8;
     --footer-bg-color: #000000;
     --footer-text-color: #fff;
