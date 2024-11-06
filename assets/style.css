@@ -11,8 +11,8 @@ body, html {
 
 :root {
     --text-color: #DBE4EF;
-    --card-front-color: #144480;
-    --card-back-color: #00F4BF;
+    --card-front-color: #801414;
+    --card-back-color: #009bf4;
     --background-color: #121212;
     --footer-bg-color: #000;
     --footer-text-color: #fff;
@@ -62,7 +62,7 @@ body {
     backface-visibility: hidden;
     border-radius: 10px;
     padding: 20px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 8px rgba(173, 19, 19, 0.2);
     display: flex;
     flex-direction: column;
     justify-content: center;
